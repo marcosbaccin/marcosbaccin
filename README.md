@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">
+<p align="center">
+<a>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=marcosbaccin&theme=cobalt&show_icons=true">
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbaccin&layout=compact&langs_count=16&theme=cobalt"/>
+</a>
+</p>
+</h3>
