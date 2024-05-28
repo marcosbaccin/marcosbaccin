@@ -6,12 +6,13 @@
 
 <div style="display: inlineblock"><br>
   <img align="center" alt="MBaccin-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MBaccin-Selenium" height="40" width="40" src="https://selenium.dev/images/selenium_logo_square_green.png">
+  <img align="center" alt="MBaccin-Pandas" height="40" width="40" src="https://github.com/marcosbaccin/marcosbaccin/assets/74544990/d7e10a61-600b-4398-9c97-09b766eb5b17">
 </div>
 
 ##
 
 <div>
-  <a href="https://www.facebook.com/marcosantonio.baccinpaulino" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcosantonio_bp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-ant%C3%B4nio-baccin-paulino-509b671b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marcosantonio_bp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
